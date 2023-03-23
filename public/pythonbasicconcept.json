@@ -1,0 +1,101 @@
+{
+    "data_types": [
+      {
+        "id": 1,
+        "name": "int",
+        "description": "Used to represent integer numbers."
+      },
+      {
+        "id": 2,
+        "name": "float",
+        "description": "Used to represent floating-point numbers."
+      },
+      {
+        "id": 3,
+        "name": "bool",
+        "description": "Used to represent Boolean values (True or False)."
+      },
+      {
+        "id": 4,
+        "name": "str",
+        "description": "Used to represent strings of characters."
+      },
+      {
+        "id": 5,
+        "name": "list",
+        "description": "Used to represent ordered sequences of elements."
+      },
+      {
+        "id": 6,
+        "name": "tuple",
+        "description": "Used to represent immutable ordered sequences of elements."
+      },
+      {
+        "id": 7,
+        "name": "dict",
+        "description": "Used to represent mappings of keys to values."
+      }
+    ],
+    "variables": [
+      {
+        "id": 8,
+        "name": "Declaring variables",
+        "description": "Variables are created when they are first assigned a value."
+      },
+      {
+        "id": 9,
+        "name": "Naming variables",
+        "description": "Variable names must start with a letter or underscore and can contain letters, numbers, and underscores."
+      },
+      {
+        "id": 10,
+        "name": "Variable assignment",
+        "description": "Variables can be assigned values using the assignment operator (=)."
+      },
+      {
+        "id": 11,
+        "name": "Variable types",
+        "description": "The type of a variable is determined by the type of the value it holds."
+      }
+    ],
+    "loops": [
+      {
+        "id": 12,
+        "name": "for loops",
+        "description": "Used to iterate over a sequence of elements."
+      },
+      {
+        "id": 13,
+        "name": "while loops",
+        "description": "Used to execute a block of code repeatedly as long as a condition is true."
+      },
+      {
+        "id": 14,
+        "name": "range function",
+        "description": "Used to generate a sequence of numbers that can be used to control the number of iterations in a loop."
+      }
+    ],
+    "conditional_statements": [
+      {
+        "id": 15,
+        "name": "if statements",
+        "description": "Used to execute a block of code if a condition is true."
+      },
+      {
+        "id": 16,
+        "name": "else statements",
+        "description": "Used to execute a block of code if the condition in the corresponding if statement is false."
+      },
+      {
+        "id": 17,
+        "name": "elif statements",
+        "description": "Used to test additional conditions if the conditions in the preceding if or elif statements are false."
+      },
+      {
+        "id": 18,
+        "name": "logical operators",
+        "description": "Used to combine multiple conditions in a single if statement."
+      }
+    ]
+  }
+  

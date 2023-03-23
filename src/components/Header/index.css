@@ -1,0 +1,36 @@
+.header-container{
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+    height:60px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.image{
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 35px;
+    width:35px;
+}
+.heading{
+    color:#339966;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.header-list{
+    display: flex;
+    font-size: 18px;
+    font-family: bold;
+    margin-left:10px;
+    list-style-type: none;
+}
+.nav-items{
+    color:#339966;
+    cursor: pointer;
+}
+.home{
+    margin-left: 15px;
+}
+.course-list{
+    margin-left: 25px;
+}

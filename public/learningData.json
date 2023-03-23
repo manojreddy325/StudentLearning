@@ -1,0 +1,21 @@
+[  
+    {   
+        "id": 1,   
+        "name": "Course 1",    
+        "description": "Description for course 1",    
+        "price": 9.99  
+    },  
+    {    
+        "id": 2, 
+        "name": "Course 2",    
+        "description": "Description for course 2",    
+        "price": 19.99  
+    },  
+    {    
+        "id": 3,    
+        "name": "Course 3",    
+        "description": "Description for course 3",    
+        "price": 29.99  
+    }
+]
+

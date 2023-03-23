@@ -1,0 +1,56 @@
+.data-list{
+    list-style-type: none;
+}
+.python-list-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:20px;
+}
+.python-heading{
+    font-family: sans-serif;
+    font-size: 20px;
+    color:#339966;
+}
+.python-list{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.list-heading{
+    font-family: sans-serif;
+    font-size: 17px;
+    color: #bbb333;
+}
+.button-container{
+    display: flex;
+    justify-content: end;
+}
+.next-button{
+    background-color: #339966;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    margin:10px;
+    padding:7px;
+    border: 1px solid white;
+    border-radius: 5px;
+    width:100px;
+    cursor: pointer;
+}
+.second-container{
+    padding:30px;
+    margin-left: 30px;
+}
+.third-container{
+    padding:30px;
+    margin-left: 30px;
+}
+.span-element{
+    border:1px solid lightgrey;
+    color: #ff5050;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 6px;
+    padding:1px;
+}
